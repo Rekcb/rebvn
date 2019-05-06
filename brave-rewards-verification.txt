@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: rebvn.com
+Token: d43a88ac332efdf04748d0e6f37f7cf7be3e2937a69319a453b140cd61c789f8 
